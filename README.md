@@ -8,6 +8,8 @@ Unfortunately, order routing is not supported and is against NinjaTrader's terms
 
 # Installation
 
+> NinjaTrader 8.1.3 required.
+
 + Close Ninjatrader if running.
 + Download NinjaTrader.Bybit.Install.1.1.0.exe from this repository and run the installer. Or copy needed files from repository to the Documents\NinjaTrader 8\bin\Custom\ folder.
 + Run Ninjatrader.
@@ -31,7 +33,7 @@ After successful connection, you will see two new folders with Futures and Spot 
 
 ![image](https://github.com/user-attachments/assets/3d484e0c-fd88-4c3c-80e6-4ff8c53c151d)
 
-# Notes
+# Important Notes
 
 Given that the Cryptocurrency instrument type is not available for use by third-party developers, and some crypto instruments have a minimum volume of less than 1, for such instruments like BTCUSDT or ETHUSDT, the volume is rounded to an integer by moving the separator to the right. That is, a volume of 1.623 BTC will be displayed as 1623. You should take this into account in your indicators and strategies.
 
