@@ -14,22 +14,22 @@ Unfortunately, order routing is not supported and is against NinjaTrader's terms
 + Open "Tools" menu and click "Options" item.
 + Check the "Multi-provider" box in the settings window.
   
-![image](https://github.com/user-attachments/assets/90680815-c621-4c74-91ec-5bd5a7ed6700)
+![image](https://github.com/user-attachments/assets/15088b44-efec-4307-b91c-1fb6f14c848c)
 
 + Click "OK" button and restart Ninjatrader.
 + Open the "Connection" menu and click the "configure" item.
 + Select "Bybit" connection and click "add" button.
   
-![image](https://github.com/user-attachments/assets/0b5c6145-653b-4a7a-bdbc-774d62d85e69)
+![image](https://github.com/user-attachments/assets/f29548c9-6a2e-4d69-83c3-dacf31a2e93c)
 
 + Click "OK" button.
 + Now you able connect to the Bybit platform.
 
-![image](https://github.com/user-attachments/assets/f63baf83-c56f-40d0-8782-ede066099270)
+![image](https://github.com/user-attachments/assets/cb1572c9-0426-47d6-93f9-1ada4b0b9feb)
 
 After successful connection, you will see two new folders with Futures and Spot instruments in the Instrument Lists.
 
-![image](https://github.com/user-attachments/assets/025eac6e-4359-4dfe-820f-a872ccc7acab)
+![image](https://github.com/user-attachments/assets/3d484e0c-fd88-4c3c-80e6-4ff8c53c151d)
 
 # Notes
 
@@ -37,7 +37,7 @@ Given that the Cryptocurrency instrument type is not available for use by third-
 
 For example, in the figure below, the real Ask volume is 1.665 and the real Bid volume is 0.391. The open position volume should be recalculated as 0.001.
 
-![image](https://github.com/user-attachments/assets/75079ebf-d435-41b3-8a13-5ab928d1cfa1)
+![image](https://github.com/user-attachments/assets/7fbb07b4-04b4-4507-9462-8fa2f988b776)
 
 # Support
 
