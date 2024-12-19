@@ -44,3 +44,8 @@ For example, in the figure below, the real Ask volume is 1.665 and the real Bid 
 # Support
 
 [Discord chat](https://discord.gg/VKTtZzAatm "Discord chat")
+
+# Release Notes
+
+**v 1.1.1**
++ Fixed history loading.
